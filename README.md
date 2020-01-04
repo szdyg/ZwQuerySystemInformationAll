@@ -1,2 +1,5 @@
 # ZwQuerySystemInformationAll
-List all ZwQuerySystemInformation use
+
+List use and struct for all ZwQuerySystemInformation 
+
+only x64
